@@ -66,3 +66,24 @@ if __name__ == '__main__':
         #print(f"Sua multiplicação é: {first_operand} * {second_operand} =  {first_operand * second_operand}")
     else:
         print("A entrada dos dados não é válida para o algoritmo")
+
+
+# =============================================================================
+# Saídas
+# =============================================================================
+# =============================== #1# ========================================#
+# Diga alguma coisa: 
+# A frase que você disse foi: 1 + 2
+# Sua soma é: 1 + 2 = 3
+# =============================== #2# ========================================#
+# Diga alguma coisa: 
+# A frase que você disse foi: 3 - 2
+# Sua subtração é: 3 - 2 =  1
+# =============================== #3# ========================================#
+# Diga alguma coisa: 
+# A frase que você disse foi: três vezes dois
+# O algoritmo trata apenas as operações de Adição e Subtração
+# =============================== #4# ========================================#
+# Diga alguma coisa: 
+# A frase que você disse foi: isso é um teste
+# A entrada dos dados não é válida para o algoritmo
